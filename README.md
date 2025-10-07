@@ -71,25 +71,29 @@ After successful creation, this PDB was deleted to demonstrate database deletion
 Oracle Enterprise Manager (OEM) was configured successfully to monitor and manage the created PDBs.  
 The OEM dashboard displays the database environment and user account information.
 
-  ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/d1a969bed0d1db6b1b72b008b01dda0f84f82243/Screenshot%202025-10-04%20142955.png) 
+   ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/cef6ecb211db3d2fe288f3c58311886986bb3465/screenshots/Screenshot%202025-10-04%20142955.png) 
+
+## **After navigating to this following OEM for signing in Username used is SYSTEM and Password used is Giuly123**
 
 
-  ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/d1a969bed0d1db6b1b72b008b01dda0f84f82243/Screenshot%202025-10-04%20134929.png) 
 
 
-  ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/d1a969bed0d1db6b1b72b008b01dda0f84f82243/Screenshot%202025-10-04%20141656.png) 
+  ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/cef6ecb211db3d2fe288f3c58311886986bb3465/screenshots/Screenshot%202025-10-04%20134929.png) 
 
 
-  ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/d1a969bed0d1db6b1b72b008b01dda0f84f82243/Screenshot%202025-10-04%20142210.png) 
+  ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/cef6ecb211db3d2fe288f3c58311886986bb3465/screenshots/Screenshot%202025-10-04%20141656.png) 
+
+
+  ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/cef6ecb211db3d2fe288f3c58311886986bb3465/screenshots/Screenshot%202025-10-04%20142210.png) 
 
 
 
 ## **Connecting to sqldeveloper**
 
-  ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/d1a969bed0d1db6b1b72b008b01dda0f84f82243/Screenshot%202025-10-04%20162834.png) 
+   ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/cef6ecb211db3d2fe288f3c58311886986bb3465/screenshots/Screenshot%202025-10-04%20162834.png) 
 
 
-  ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/d1a969bed0d1db6b1b72b008b01dda0f84f82243/Screenshot%202025-10-07%20130605.png)
+  ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/cef6ecb211db3d2fe288f3c58311886986bb3465/screenshots/Screenshot%202025-10-07%20130605.png)
 
 
 ---
