@@ -17,7 +17,7 @@ A new Pluggable Database (PDB) was created using the following format:
 
 - **PDB Name:** gi_pdb_27390  
 - **Username:** giuly_plsqlauca_27390  
-- **Password:** *(A simple password was chosen as required)*  
+- **Password:** Giuly123  
 
 
 
