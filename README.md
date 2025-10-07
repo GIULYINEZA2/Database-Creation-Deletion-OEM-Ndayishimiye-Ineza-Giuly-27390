@@ -21,8 +21,14 @@ A new Pluggable Database (PDB) was created using the following format:
 
 
 
-**Screenshot:**  
-*(Insert your PDB creation screenshot here)*
+![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/ea0a86eb8ff8de4aa2863856afb927e7e064546b/Screenshot%202025-10-04%20131355.png)
+
+![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/ea0a86eb8ff8de4aa2863856afb927e7e064546b/Screenshot%202025-10-04%20131805.png)
+
+
+ ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/ea0a86eb8ff8de4aa2863856afb927e7e064546b/Screenshot%202025-10-04%20132018.png)
+  ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/ea0a86eb8ff8de4aa2863856afb927e7e064546b/Screenshot%202025-10-04%20132221.png)
+
 
 ---
 
