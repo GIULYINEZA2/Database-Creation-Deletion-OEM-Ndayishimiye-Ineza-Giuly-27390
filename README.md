@@ -50,14 +50,17 @@ After successful creation, this PDB was deleted to demonstrate database deletion
 
 - PDB Creation
 
-    ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/d1a969bed0d1db6b1b72b008b01dda0f84f82243/Screenshot%202025-10-04%20133021.png)
+     ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/72b7e16ad67c047c26771149504fe941abede320/screenshots/Screenshot%202025-10-04%20133021.png)
 
-  ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/d1a969bed0d1db6b1b72b008b01dda0f84f82243/Screenshot%202025-10-04%20133103.png)
+
+
+  ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/72b7e16ad67c047c26771149504fe941abede320/screenshots/Screenshot%202025-10-04%20133103.png)
+
 
 - PDB Deletion
 
   
-  ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/d1a969bed0d1db6b1b72b008b01dda0f84f82243/Screenshot%202025-10-04%20133158.png) 
+  ![Alt Text]( https://github.com/GIULYINEZA2/Database-Creation-Deletion-OEM-Ndayishimiye-Ineza-Giuly-27390/blob/72b7e16ad67c047c26771149504fe941abede320/screenshots/Screenshot%202025-10-04%20133158.png) 
 
 
 
